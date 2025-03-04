@@ -63,4 +63,9 @@ Support & Learning: Throughout the project, I leveraged ChatGPT for assistance i
 Conclusion:
 This script automates student performance report generation using Python, pandas, matplotlib, and ReportLab. It loads data from an Excel file, creates bar graphs, and generates PDF reports with detailed insights. The error handling ensures smooth execution even when data is missing.
 
-This approach can be extended to larger datasets, different subjects, and other types of analysis. It’s an efficient way to visualize and document performance trends over time
+This approach can be extended to larger datasets, different subjects, and other types of analysis. It’s an efficient way to visualize and document performance trends over time.
+
+*Output*
+
+![Image](https://github.com/user-attachments/assets/71df0de6-d092-4df8-849a-27fcc9b6721b)
+
